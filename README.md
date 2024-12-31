@@ -1,7 +1,7 @@
 # latihan string
 DAFTAR ISI
 ==========
-- [LAPORAN Latihan String](#laporan-Latihan-String) 
+- [LAPORAN LATIHAN STRING](#laporan-Latihan-String) 
     - [PSEUDECODE PROGRAM DATA STRING](#pseudecode-program-data-string)
     - [KESIMPULAN](#kesimpulan)
 
